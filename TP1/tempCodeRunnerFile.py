@@ -1,0 +1,1 @@
+image = cv2.imread('data/Page3_rotated.png')
