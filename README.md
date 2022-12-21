@@ -1,1 +1,1 @@
-# -TPs_Arabic_OCR
+# TPs_Arabic_OCR
